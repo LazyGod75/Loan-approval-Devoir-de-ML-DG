@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/18e4c625b3e646f195f262ba9cdae3b4/artifacts
+end_time: 1729614076166
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: 18e4c625b3e646f195f262ba9cdae3b4
+run_name: MLP Neural Network classique
+run_uuid: 18e4c625b3e646f195f262ba9cdae3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729613989347
+status: 3
+tags: []
+user_id: David

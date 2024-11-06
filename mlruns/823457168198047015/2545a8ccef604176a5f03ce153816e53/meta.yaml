@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/2545a8ccef604176a5f03ce153816e53/artifacts
+deleted_time: 1729613588010
+end_time: 1729612558373
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: 2545a8ccef604176a5f03ce153816e53
+run_name: Random Forest classique
+run_uuid: 2545a8ccef604176a5f03ce153816e53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729612543355
+status: 3
+tags: []
+user_id: David

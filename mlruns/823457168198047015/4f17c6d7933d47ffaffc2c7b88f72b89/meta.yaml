@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/4f17c6d7933d47ffaffc2c7b88f72b89/artifacts
+end_time: 1729672727281
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: 4f17c6d7933d47ffaffc2c7b88f72b89
+run_name: XGBoost avec KFold sur train_cleanedV3
+run_uuid: 4f17c6d7933d47ffaffc2c7b88f72b89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672709212
+status: 3
+tags: []
+user_id: David

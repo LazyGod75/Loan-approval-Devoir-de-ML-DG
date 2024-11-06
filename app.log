@@ -1,0 +1,124 @@
+2024-11-05 17:31:36,879 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 17:31:36,879 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:31:36,936 INFO werkzeug :  * Restarting with watchdog (windowsapi)
+2024-11-05 17:33:20,059 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:33:20,059 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:34:35,616 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:34:35] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:34:35,652 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:34:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-05 17:35:45,965 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:35:45,965 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:35:52,621 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:35:52] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:36:28,011 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:36:28] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:36:30,692 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:36:30] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:38:41,692 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:38:41,692 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:38:52,162 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:38:52] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:44:23,448 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:44:23,448 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:44:25,658 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:44:25] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:49:19,925 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:49:19] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:49:23,923 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:49:23] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:49:27,451 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:49:27] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:55:56,990 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:55:56,991 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:56:01,384 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:56:01] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:56:03,690 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:56:03] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:56:06,426 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:56:06] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:57:39,358 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:57:39] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 17:58:05,389 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 17:58:05,389 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 17:58:11,941 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:58:11] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:58:13,858 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:58:13] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 17:58:34,952 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 17:58:34] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 18:00:10,555 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 18:00:10,563 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:00:26,902 INFO __main__ : Request received: {'person_age': 35, 'person_income': 60000, 'person_emp_length': 5, 'loan_amnt': 15000, 'loan_int_rate': 10.5, 'loan_percent_income': 0.25, 'loan_grade': 'B', 'person_home_ownership': 'RENT', 'loan_intent': 'PERSONAL', 'cb_person_default_on_file': 'N'}
+2024-11-05 18:00:26,969 ERROR __main__ : Prediction error: feature_names mismatch: ['loan_grade', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y'] ['loan_grade', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month']
+2024-11-05 18:00:26,969 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:00:26] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-05 18:03:31,892 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.89:5000
+2024-11-05 18:03:31,892 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:03:36,796 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:03:36] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 18:09:22,605 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:09:22,605 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:09:24,798 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:09:24] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 18:09:53,510 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:09:53] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 18:12:25,953 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:12:25] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 18:12:44,116 INFO __main__ : Request received: {'person_age': 35, 'person_income': 60000, 'person_emp_length': 5, 'loan_amnt': 15000, 'loan_int_rate': 10.5, 'loan_percent_income': 0.25, 'loan_grade': 'B', 'person_home_ownership': 'RENT', 'loan_intent': 'PERSONAL', 'cb_person_default_on_file': 'N'}
+2024-11-05 18:12:44,243 ERROR __main__ : Prediction error: feature_names mismatch: ['loan_grade', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y'] ['loan_grade', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month']
+2024-11-05 18:12:44,244 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:12:44] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-05 18:18:31,834 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:18:31,834 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:18:34,258 INFO __main__ : Request received: {'person_age': 35, 'person_income': 60000, 'person_emp_length': 5, 'loan_amnt': 15000, 'loan_int_rate': 10.5, 'loan_percent_income': 0.25, 'loan_grade': 'B', 'person_home_ownership': 'RENT', 'loan_intent': 'PERSONAL', 'cb_person_default_on_file': 'N'}
+2024-11-05 18:18:34,278 ERROR __main__ : Prediction error: feature_names mismatch: ['loan_grade', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y'] ['loan_grade', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month']
+2024-11-05 18:18:34,278 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:18:34] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-05 18:18:37,180 INFO __main__ : Request received: {'person_age': 35, 'person_income': 60000, 'person_emp_length': 5, 'loan_amnt': 15000, 'loan_int_rate': 10.5, 'loan_percent_income': 0.25, 'loan_grade': 'B', 'person_home_ownership': 'RENT', 'loan_intent': 'PERSONAL', 'cb_person_default_on_file': 'N'}
+2024-11-05 18:18:37,194 ERROR __main__ : Prediction error: feature_names mismatch: ['loan_grade', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y'] ['loan_grade', 'person_home_ownership_OTHER', 'person_home_ownership_OWN', 'person_home_ownership_RENT', 'loan_intent_EDUCATION', 'loan_intent_HOMEIMPROVEMENT', 'loan_intent_MEDICAL', 'loan_intent_PERSONAL', 'loan_intent_VENTURE', 'cb_person_default_on_file_Y', 'person_age', 'person_income', 'person_emp_length', 'loan_amnt', 'loan_int_rate', 'loan_percent_income', 'loan_to_income_ratio', 'total_due_with_loan_amnt', 'remaining_income_end_of_month']
+2024-11-05 18:18:37,200 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:18:37] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-11-05 18:39:42,638 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:39:42,638 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:39:45,955 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:39:45] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 18:44:28,613 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:44:28,613 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:44:28,616 INFO werkzeug :  * Restarting with watchdog (windowsapi)
+2024-11-05 18:46:37,594 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:46:37,594 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:49:19,550 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:49:19] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 18:51:04,594 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:51:04,594 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:51:04,594 INFO werkzeug :  * Restarting with watchdog (windowsapi)
+2024-11-05 18:51:17,289 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:51:17,289 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:51:17,289 INFO werkzeug :  * Restarting with watchdog (windowsapi)
+2024-11-05 18:51:59,620 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:51:59,620 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:57:04,239 INFO werkzeug : [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-05 18:57:04,239 INFO werkzeug : [33mPress CTRL+C to quit[0m
+2024-11-05 18:57:04,239 INFO werkzeug :  * Restarting with watchdog (windowsapi)
+2024-11-05 18:58:32,979 INFO __main__ : Request received: {'person_age': 30, 'person_income': 50000, 'person_emp_length': 5, 'loan_amnt': 10000, 'loan_int_rate': 5.0, 'loan_percent_income': 0.2, 'loan_grade': 'B', 'person_home_ownership': 'RENT', 'loan_intent': 'PERSONAL', 'cb_person_default_on_file': 'N'}
+2024-11-05 18:58:33,014 INFO __main__ : Prediction successful
+2024-11-05 18:58:33,014 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:58:33] "POST /predict HTTP/1.1" 200 -
+2024-11-05 18:58:58,176 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:58:58] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 18:58:59,689 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 18:58:59] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2024-11-05 19:11:25,046 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:11:25] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:11:25,085 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:11:25] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-05 19:13:29,580 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:13:29] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:22:29,847 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:22:29] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:30:52,897 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:30:52] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:31:15,118 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:31:15] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:32:21,273 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:32:21] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:34:55,401 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:34:55] "[33mGET / HTTP/1.1[0m" 404 -
+2024-11-05 19:35:27,947 INFO werkzeug : 127.0.0.1 - - [05/Nov/2024 19:35:27] "[33mGET / HTTP/1.1[0m" 404 -

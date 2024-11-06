@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/714467b5efa348b29816f3106e619bf0/artifacts
+deleted_time: 1729613588066
+end_time: 1729613458847
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: 714467b5efa348b29816f3106e619bf0
+run_name: SVM classique
+run_uuid: 714467b5efa348b29816f3106e619bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729612867646
+status: 4
+tags: []
+user_id: David

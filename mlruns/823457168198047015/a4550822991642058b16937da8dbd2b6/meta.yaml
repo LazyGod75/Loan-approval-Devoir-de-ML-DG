@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/a4550822991642058b16937da8dbd2b6/artifacts
+end_time: 1729629306709
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: a4550822991642058b16937da8dbd2b6
+run_name: debonair-midge-926
+run_uuid: a4550822991642058b16937da8dbd2b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729623461007
+status: 3
+tags: []
+user_id: David

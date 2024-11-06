@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/0/e6c5bb866082452aae64d1e299b8d064/artifacts
+end_time: 1729612019277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6c5bb866082452aae64d1e299b8d064
+run_name: defiant-lamb-310
+run_uuid: e6c5bb866082452aae64d1e299b8d064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729612015268
+status: 3
+tags: []
+user_id: David

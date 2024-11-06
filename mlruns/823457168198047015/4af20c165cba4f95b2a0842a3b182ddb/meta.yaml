@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/4af20c165cba4f95b2a0842a3b182ddb/artifacts
+end_time: 1729677172389
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: 4af20c165cba4f95b2a0842a3b182ddb
+run_name: XGBoost with Optuna
+run_uuid: 4af20c165cba4f95b2a0842a3b182ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672912905
+status: 3
+tags: []
+user_id: David

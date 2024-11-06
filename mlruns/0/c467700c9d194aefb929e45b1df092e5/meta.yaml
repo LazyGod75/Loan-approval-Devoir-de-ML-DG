@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/0/c467700c9d194aefb929e45b1df092e5/artifacts
+deleted_time: 1729611924251
+end_time: 1729611666178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c467700c9d194aefb929e45b1df092e5
+run_name: bedecked-flea-353
+run_uuid: c467700c9d194aefb929e45b1df092e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729611666147
+status: 3
+tags: []
+user_id: David

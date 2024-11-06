@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/e8e3a08d937f489d841a6edd3ea91f5c/artifacts
+end_time: 1729672246628
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: e8e3a08d937f489d841a6edd3ea91f5c
+run_name: orderly-snake-925
+run_uuid: e8e3a08d937f489d841a6edd3ea91f5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672246563
+status: 3
+tags: []
+user_id: David

@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/34886a028130479e9c21a140215167e1/artifacts
+deleted_time: 1729613588012
+end_time: 1729612711585
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: 34886a028130479e9c21a140215167e1
+run_name: Gradient Boosting classique
+run_uuid: 34886a028130479e9c21a140215167e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729612700683
+status: 3
+tags: []
+user_id: David

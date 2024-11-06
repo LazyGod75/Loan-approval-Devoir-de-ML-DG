@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/0/04aa4bdeae73465aae5048dd1f0fb4e0/artifacts
+deleted_time: 1729611924255
+end_time: 1729611186732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 04aa4bdeae73465aae5048dd1f0fb4e0
+run_name: capable-lark-496
+run_uuid: 04aa4bdeae73465aae5048dd1f0fb4e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729611180692
+status: 3
+tags: []
+user_id: David

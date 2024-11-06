@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/5e38bccfbbe64fdd9e0f5936e9a0b1ac/artifacts
+deleted_time: 1729756930226
+end_time: 1729672671101
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: 5e38bccfbbe64fdd9e0f5936e9a0b1ac
+run_name: CatBoost classique
+run_uuid: 5e38bccfbbe64fdd9e0f5936e9a0b1ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672670421
+status: 3
+tags: []
+user_id: David

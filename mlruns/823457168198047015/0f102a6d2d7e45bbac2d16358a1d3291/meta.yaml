@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/0f102a6d2d7e45bbac2d16358a1d3291/artifacts
+end_time: 1729613989009
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: 0f102a6d2d7e45bbac2d16358a1d3291
+run_name: XGBoost classique
+run_uuid: 0f102a6d2d7e45bbac2d16358a1d3291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729613982307
+status: 3
+tags: []
+user_id: David

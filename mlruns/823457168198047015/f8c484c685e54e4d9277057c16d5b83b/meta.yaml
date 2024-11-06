@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/f8c484c685e54e4d9277057c16d5b83b/artifacts
+deleted_time: 1729756930215
+end_time: 1729672605796
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: f8c484c685e54e4d9277057c16d5b83b
+run_name: KNN classique
+run_uuid: f8c484c685e54e4d9277057c16d5b83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729672582850
+status: 3
+tags: []
+user_id: David

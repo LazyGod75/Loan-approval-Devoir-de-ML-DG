@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/ead29885fd0c458a9a3a5de75338e7db/artifacts
+end_time: 1729672241333
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: active
+run_id: ead29885fd0c458a9a3a5de75338e7db
+run_name: sneaky-swan-705
+run_uuid: ead29885fd0c458a9a3a5de75338e7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729669847785
+status: 3
+tags: []
+user_id: David

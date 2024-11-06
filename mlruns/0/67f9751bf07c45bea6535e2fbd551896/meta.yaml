@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/0/67f9751bf07c45bea6535e2fbd551896/artifacts
+deleted_time: 1729611924256
+end_time: 1729611438033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 67f9751bf07c45bea6535e2fbd551896
+run_name: welcoming-moth-417
+run_uuid: 67f9751bf07c45bea6535e2fbd551896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729611433283
+status: 3
+tags: []
+user_id: David

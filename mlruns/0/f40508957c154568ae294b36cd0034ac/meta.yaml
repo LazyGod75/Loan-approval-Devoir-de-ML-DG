@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/0/f40508957c154568ae294b36cd0034ac/artifacts
+deleted_time: 1729611924234
+end_time: 1729611694468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f40508957c154568ae294b36cd0034ac
+run_name: receptive-stag-616
+run_uuid: f40508957c154568ae294b36cd0034ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729611688859
+status: 3
+tags: []
+user_id: David

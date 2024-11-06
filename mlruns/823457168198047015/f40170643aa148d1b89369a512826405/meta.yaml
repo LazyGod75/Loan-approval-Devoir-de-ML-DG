@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/David/Documents/Albert%20school/ML/playground-series-s4e10/mlruns/823457168198047015/f40170643aa148d1b89369a512826405/artifacts
+deleted_time: 1729613588042
+end_time: 1729612381481
+entry_point_name: ''
+experiment_id: '823457168198047015'
+lifecycle_stage: deleted
+run_id: f40170643aa148d1b89369a512826405
+run_name: Logistic Regression Baseline
+run_uuid: f40170643aa148d1b89369a512826405
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729612377399
+status: 3
+tags: []
+user_id: David

@@ -37,7 +37,6 @@ loan_intent = 'PERSONAL'
 cb_person_default_on_file = 'N'
 prediction_result = ''
 
-# **Define the make_prediction function before creating the GUI**
 def make_prediction(state):
     try:
         print("make_prediction function called")
@@ -94,18 +93,20 @@ def make_prediction(state):
         # Make prediction
         prediction = xgb_model.predict(X_input)
         
-        # Print the prediction result
-        print(f"Prediction: {'Approved' if prediction[0] == 0 else 'Denied'}")
-
         # Map the prediction to a readable format
-        state.prediction_result = 'Approved' if prediction[0] == 0 else 'Denied'
+        readable_result = 'Approved' if prediction[0] == 0 else 'Denied'
+        state.prediction_result = readable_result
+        print(f"Prediction: {readable_result}")
         print(f"state.prediction_result set to: {state.prediction_result}")
+
+        # Write the prediction result to a file
+        with open(os.path.join(base_dir, 'score.txt'), 'w') as file:
+            file.write(f"Prediction Result: {readable_result}\n")
 
     except Exception as e:
         traceback.print_exc()
         state.prediction_result = f"Error: {str(e)}"
         print(f"Error occurred: {state.prediction_result}")
-
 
 # **Define the Taipy GUI layout**
 page = """

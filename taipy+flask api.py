@@ -57,9 +57,16 @@ def predict():
         prediction = xgb_model.predict(X_input)
         result = 'Approved' if prediction[0] == 0 else 'Denied'
 
+        # Write the prediction result to a file
+        with open(os.path.join(base_dir, 'score.txt'), 'w') as file:
+            file.write(f"Prediction Result: {result}\n")
+
         return jsonify({'prediction_result': result})
 
     except Exception as e:
+        # Log the error in the same file
+        with open(os.path.join(base_dir, 'score.txt'), 'a') as file:
+            file.write(f"Error: {str(e)}\n")
         return jsonify({'error': str(e)}), 500
 
 # Configuration de Taipy

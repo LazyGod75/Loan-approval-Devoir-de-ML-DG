@@ -5,6 +5,19 @@ Jonathan Sebban David Grogan
 
 **Presenters:** David Grogan - Jonathan Sebban
 
+Hello, this is my homework for ML. 
+
+The Project have : 
+
+- My ipynb for the EDA
+- My ipynb where I did all the machine learning
+- A py file name app.py where I did an application that you can try, where you can choose the variable and see if the loan will be approuved
+- A file with the app and an api.
+- the requirement file and the joblibs
+- The data
+  
+Obviously you do what you want but you should install the requirement file and run the app.py file and try the model with the parameter you want. The app will tell you if the loan is approuved or denied and create a score.txt file with the result.
+
 ### Introduction
 
 **Goal:** The objective is to predict whether an applicant is approved for a loan.
@@ -52,6 +65,8 @@ Jonathan Sebban David Grogan
 
 ### Feature Engineering
 
+The encoding was based on a success rate pipeline to see if there is any order in the value.
+
 **Categorical Variables:** 
 - `person_home_ownership`
 - `loan_intent`
@@ -82,6 +97,11 @@ Encoding: Applied OneHotEncoder for categorical variables without order and Ordi
 
 **Baseline:**
 - Utilized logistic regression with an ROC AUC of 0.88.
+
+I tried every model to see wich one is the best. 
+
+  ![Capture d'écran 2024-10-24 100318](https://github.com/user-attachments/assets/e17f6982-e484-4922-9b12-c19732d8a2ce)
+
 
 **XGBoost Variants:**
 - Classic XGBoost: ROC AUC of 0.9537.

@@ -1,4 +1,5 @@
-# ML loan approval ppt
+# ML Loan Approval 
+Jonathan Sebban David Grogan 
 
 ## Loan Approval Prediction
 
@@ -67,8 +68,15 @@
 ### Outliers
 
 **Adjustments:**
+
+Encoding: Applied OneHotEncoder for categorical variables without order and Ordinal Encoder for loan_grade.
 - Removed outliers in `person_age` beyond 100 years.
+- <img width="574" alt="Screenshot 2024-11-08 at 14 15 02" src="https://github.com/user-attachments/assets/43ac33e6-3e6a-465e-81a2-2e5cf78b8045">
+
 - Eliminated employment lengths over 60 years as unrealistic.
+- <img width="583" alt="Screenshot 2024-11-08 at 14 15 31" src="https://github.com/user-attachments/assets/a90e7b5c-a99b-4efe-8ca5-dd15cce1c5b7">
+
+  
 
 ### Modeling
 
@@ -90,4 +98,4 @@
 - Potential strategies to improve future scores include reducing overfitting, refining or removing less effective features.
 
 **Acknowledgements:**
-- Thank you.
+- Special thanks to Mr. Desforges for guidance and data provision.

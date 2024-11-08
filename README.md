@@ -18,6 +18,10 @@ The Project have :
   
 Obviously you do what you want but you should install the requirement file and run the app.py file and try the model with the parameter you want. The app will tell you if the loan is approuved or denied and create a score.txt file with the result.
 
+
+https://github.com/user-attachments/assets/eeb1d3e7-cb28-4529-bf13-2328dcf7681c
+
+
 ### Introduction
 
 **Goal:** The objective is to predict whether an applicant is approved for a loan.
